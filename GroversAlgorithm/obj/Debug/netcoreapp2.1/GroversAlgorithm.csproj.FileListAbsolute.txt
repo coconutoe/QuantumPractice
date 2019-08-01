@@ -1,0 +1,14 @@
+G:\量子实习\quantumKatas-VS\GroversAlgorithm\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+G:\量子实习\quantumKatas-VS\GroversAlgorithm\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+G:\量子实习\quantumKatas-VS\GroversAlgorithm\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+G:\量子实习\quantumKatas-VS\GroversAlgorithm\bin\Debug\netcoreapp2.1\GroversAlgorithm.deps.json
+G:\量子实习\quantumKatas-VS\GroversAlgorithm\bin\Debug\netcoreapp2.1\GroversAlgorithm.runtimeconfig.json
+G:\量子实习\quantumKatas-VS\GroversAlgorithm\bin\Debug\netcoreapp2.1\GroversAlgorithm.runtimeconfig.dev.json
+G:\量子实习\quantumKatas-VS\GroversAlgorithm\bin\Debug\netcoreapp2.1\GroversAlgorithm.dll
+G:\量子实习\quantumKatas-VS\GroversAlgorithm\bin\Debug\netcoreapp2.1\GroversAlgorithm.pdb
+G:\量子实习\quantumKatas-VS\GroversAlgorithm\obj\Debug\netcoreapp2.1\GroversAlgorithm.csprojAssemblyReference.cache
+G:\量子实习\quantumKatas-VS\GroversAlgorithm\obj\Debug\netcoreapp2.1\GroversAlgorithm.csproj.CoreCompileInputs.cache
+G:\量子实习\quantumKatas-VS\GroversAlgorithm\obj\Debug\netcoreapp2.1\GroversAlgorithm.AssemblyInfoInputs.cache
+G:\量子实习\quantumKatas-VS\GroversAlgorithm\obj\Debug\netcoreapp2.1\GroversAlgorithm.AssemblyInfo.cs
+G:\量子实习\quantumKatas-VS\GroversAlgorithm\obj\Debug\netcoreapp2.1\GroversAlgorithm.dll
+G:\量子实习\quantumKatas-VS\GroversAlgorithm\obj\Debug\netcoreapp2.1\GroversAlgorithm.pdb

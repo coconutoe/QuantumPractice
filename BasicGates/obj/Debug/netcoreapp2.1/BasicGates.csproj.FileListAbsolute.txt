@@ -1,0 +1,14 @@
+G:\量子实习\quantumKatas-VS\BasicGates\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+G:\量子实习\quantumKatas-VS\BasicGates\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+G:\量子实习\quantumKatas-VS\BasicGates\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+G:\量子实习\quantumKatas-VS\BasicGates\bin\Debug\netcoreapp2.1\BasicGates.deps.json
+G:\量子实习\quantumKatas-VS\BasicGates\bin\Debug\netcoreapp2.1\BasicGates.runtimeconfig.json
+G:\量子实习\quantumKatas-VS\BasicGates\bin\Debug\netcoreapp2.1\BasicGates.runtimeconfig.dev.json
+G:\量子实习\quantumKatas-VS\BasicGates\bin\Debug\netcoreapp2.1\BasicGates.dll
+G:\量子实习\quantumKatas-VS\BasicGates\bin\Debug\netcoreapp2.1\BasicGates.pdb
+G:\量子实习\quantumKatas-VS\BasicGates\obj\Debug\netcoreapp2.1\BasicGates.csprojAssemblyReference.cache
+G:\量子实习\quantumKatas-VS\BasicGates\obj\Debug\netcoreapp2.1\BasicGates.csproj.CoreCompileInputs.cache
+G:\量子实习\quantumKatas-VS\BasicGates\obj\Debug\netcoreapp2.1\BasicGates.AssemblyInfoInputs.cache
+G:\量子实习\quantumKatas-VS\BasicGates\obj\Debug\netcoreapp2.1\BasicGates.AssemblyInfo.cs
+G:\量子实习\quantumKatas-VS\BasicGates\obj\Debug\netcoreapp2.1\BasicGates.dll
+G:\量子实习\quantumKatas-VS\BasicGates\obj\Debug\netcoreapp2.1\BasicGates.pdb

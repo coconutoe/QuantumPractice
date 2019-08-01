@@ -1,0 +1,14 @@
+G:\量子实习\quantumKatas-VS\CHSHGame\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+G:\量子实习\quantumKatas-VS\CHSHGame\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+G:\量子实习\quantumKatas-VS\CHSHGame\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+G:\量子实习\quantumKatas-VS\CHSHGame\bin\Debug\netcoreapp2.1\CHSHGame.deps.json
+G:\量子实习\quantumKatas-VS\CHSHGame\bin\Debug\netcoreapp2.1\CHSHGame.runtimeconfig.json
+G:\量子实习\quantumKatas-VS\CHSHGame\bin\Debug\netcoreapp2.1\CHSHGame.runtimeconfig.dev.json
+G:\量子实习\quantumKatas-VS\CHSHGame\bin\Debug\netcoreapp2.1\CHSHGame.dll
+G:\量子实习\quantumKatas-VS\CHSHGame\bin\Debug\netcoreapp2.1\CHSHGame.pdb
+G:\量子实习\quantumKatas-VS\CHSHGame\obj\Debug\netcoreapp2.1\CHSHGame.csprojAssemblyReference.cache
+G:\量子实习\quantumKatas-VS\CHSHGame\obj\Debug\netcoreapp2.1\CHSHGame.csproj.CoreCompileInputs.cache
+G:\量子实习\quantumKatas-VS\CHSHGame\obj\Debug\netcoreapp2.1\CHSHGame.AssemblyInfoInputs.cache
+G:\量子实习\quantumKatas-VS\CHSHGame\obj\Debug\netcoreapp2.1\CHSHGame.AssemblyInfo.cs
+G:\量子实习\quantumKatas-VS\CHSHGame\obj\Debug\netcoreapp2.1\CHSHGame.dll
+G:\量子实习\quantumKatas-VS\CHSHGame\obj\Debug\netcoreapp2.1\CHSHGame.pdb

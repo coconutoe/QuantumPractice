@@ -1,0 +1,17 @@
+G:\量子实习\quantumKatas-VS\DeutschJozsaAlgorithm\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+G:\量子实习\quantumKatas-VS\DeutschJozsaAlgorithm\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+G:\量子实习\quantumKatas-VS\DeutschJozsaAlgorithm\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+G:\量子实习\quantumKatas-VS\DeutschJozsaAlgorithm\bin\Debug\netcoreapp2.1\DeutschJozsaAlgorithm.deps.json
+G:\量子实习\quantumKatas-VS\DeutschJozsaAlgorithm\bin\Debug\netcoreapp2.1\DeutschJozsaAlgorithm.runtimeconfig.json
+G:\量子实习\quantumKatas-VS\DeutschJozsaAlgorithm\bin\Debug\netcoreapp2.1\DeutschJozsaAlgorithm.runtimeconfig.dev.json
+G:\量子实习\quantumKatas-VS\DeutschJozsaAlgorithm\bin\Debug\netcoreapp2.1\DeutschJozsaAlgorithm.dll
+G:\量子实习\quantumKatas-VS\DeutschJozsaAlgorithm\bin\Debug\netcoreapp2.1\DeutschJozsaAlgorithm.pdb
+G:\量子实习\quantumKatas-VS\DeutschJozsaAlgorithm\bin\Debug\netcoreapp2.1\Microsoft.Quantum.Katas.Common.dll
+G:\量子实习\quantumKatas-VS\DeutschJozsaAlgorithm\bin\Debug\netcoreapp2.1\Microsoft.Quantum.Katas.Common.pdb
+G:\量子实习\quantumKatas-VS\DeutschJozsaAlgorithm\obj\Debug\netcoreapp2.1\DeutschJozsaAlgorithm.csprojAssemblyReference.cache
+G:\量子实习\quantumKatas-VS\DeutschJozsaAlgorithm\obj\Debug\netcoreapp2.1\DeutschJozsaAlgorithm.csproj.CoreCompileInputs.cache
+G:\量子实习\quantumKatas-VS\DeutschJozsaAlgorithm\obj\Debug\netcoreapp2.1\DeutschJozsaAlgorithm.AssemblyInfoInputs.cache
+G:\量子实习\quantumKatas-VS\DeutschJozsaAlgorithm\obj\Debug\netcoreapp2.1\DeutschJozsaAlgorithm.AssemblyInfo.cs
+G:\量子实习\quantumKatas-VS\DeutschJozsaAlgorithm\obj\Debug\netcoreapp2.1\DeutschJozsaAlgorithm.csproj.CopyComplete
+G:\量子实习\quantumKatas-VS\DeutschJozsaAlgorithm\obj\Debug\netcoreapp2.1\DeutschJozsaAlgorithm.dll
+G:\量子实习\quantumKatas-VS\DeutschJozsaAlgorithm\obj\Debug\netcoreapp2.1\DeutschJozsaAlgorithm.pdb

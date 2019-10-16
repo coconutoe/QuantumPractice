@@ -467,11 +467,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\量子实习\\quantumKatas-VS\\utilities\\Common\\Common.csproj",
+      "projectUniqueName": "G:\\QuantumPractice\\quantumKatas-VS\\utilities\\Common\\Common.csproj",
       "projectName": "Microsoft.Quantum.Katas.Common",
-      "projectPath": "G:\\量子实习\\quantumKatas-VS\\utilities\\Common\\Common.csproj",
+      "projectPath": "G:\\QuantumPractice\\quantumKatas-VS\\utilities\\Common\\Common.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "G:\\量子实习\\quantumKatas-VS\\utilities\\Common\\obj\\",
+      "outputPath": "G:\\QuantumPractice\\quantumKatas-VS\\utilities\\Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

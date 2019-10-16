@@ -43,7 +43,9 @@ namespace Quantum.Kata.PhaseEstimation {
     //      eigenstate |0⟩ if state = 0, or eigenstate |1⟩ if state = 1.
     operation Eigenstates_ZST (q : Qubit, state : Int) : Unit
     is Adj {
-        // ...
+        if (state == 1) {
+			X(q);
+		}
     }
 
 
@@ -73,7 +75,10 @@ namespace Quantum.Kata.PhaseEstimation {
     //      Assert that the given state is an eigenstate of the given unitary,
     //      i.e., do nothing if it is, and throw an exception if it is not.
     operation AssertIsEigenstate (U : (Qubit => Unit), P : (Qubit => Unit is Adj)) : Unit {
-        // ...
+        using(qs = Qubit()) {
+			P(qs);
+			U(qs);
+		}
     }
 
 

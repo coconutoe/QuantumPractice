@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\量子实习\\quantumKatas-VS\\Superposition\\Superposition.csproj": {}
+    "G:\\QuantumPractice\\quantumKatas-VS\\Superposition\\Superposition.csproj": {}
   },
   "projects": {
-    "G:\\量子实习\\quantumKatas-VS\\Superposition\\Superposition.csproj": {
+    "G:\\QuantumPractice\\quantumKatas-VS\\Superposition\\Superposition.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\量子实习\\quantumKatas-VS\\Superposition\\Superposition.csproj",
+        "projectUniqueName": "G:\\QuantumPractice\\quantumKatas-VS\\Superposition\\Superposition.csproj",
         "projectName": "Superposition",
-        "projectPath": "G:\\量子实习\\quantumKatas-VS\\Superposition\\Superposition.csproj",
+        "projectPath": "G:\\QuantumPractice\\quantumKatas-VS\\Superposition\\Superposition.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "G:\\量子实习\\quantumKatas-VS\\Superposition\\obj\\",
+        "outputPath": "G:\\QuantumPractice\\quantumKatas-VS\\Superposition\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -46,6 +46,7 @@
               "version": "[15.3.0, )"
             },
             "Microsoft.NETCore.App": {
+              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true

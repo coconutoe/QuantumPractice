@@ -5958,11 +5958,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\量子实习\\quantumKatas-VS\\DeutschJozsaAlgorithm\\DeutschJozsaAlgorithm.csproj",
+      "projectUniqueName": "G:\\QuantumPractice\\quantumKatas-VS\\DeutschJozsaAlgorithm\\DeutschJozsaAlgorithm.csproj",
       "projectName": "DeutschJozsaAlgorithm",
-      "projectPath": "G:\\量子实习\\quantumKatas-VS\\DeutschJozsaAlgorithm\\DeutschJozsaAlgorithm.csproj",
+      "projectPath": "G:\\QuantumPractice\\quantumKatas-VS\\DeutschJozsaAlgorithm\\DeutschJozsaAlgorithm.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "G:\\量子实习\\quantumKatas-VS\\DeutschJozsaAlgorithm\\obj\\",
+      "outputPath": "G:\\QuantumPractice\\quantumKatas-VS\\DeutschJozsaAlgorithm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5981,8 +5981,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "G:\\量子实习\\quantumKatas-VS\\utilities\\Common\\Common.csproj": {
-              "projectPath": "G:\\量子实习\\quantumKatas-VS\\utilities\\Common\\Common.csproj"
+            "G:\\QuantumPractice\\quantumKatas-VS\\utilities\\Common\\Common.csproj": {
+              "projectPath": "G:\\QuantumPractice\\quantumKatas-VS\\utilities\\Common\\Common.csproj"
             }
           }
         }

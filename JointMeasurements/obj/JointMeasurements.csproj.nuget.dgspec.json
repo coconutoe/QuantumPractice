@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\量子实习\\quantumKatas-VS\\JointMeasurements\\JointMeasurements.csproj": {}
+    "G:\\QuantumPractice\\quantumKatas-VS\\JointMeasurements\\JointMeasurements.csproj": {}
   },
   "projects": {
-    "G:\\量子实习\\quantumKatas-VS\\JointMeasurements\\JointMeasurements.csproj": {
+    "G:\\QuantumPractice\\quantumKatas-VS\\JointMeasurements\\JointMeasurements.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\量子实习\\quantumKatas-VS\\JointMeasurements\\JointMeasurements.csproj",
+        "projectUniqueName": "G:\\QuantumPractice\\quantumKatas-VS\\JointMeasurements\\JointMeasurements.csproj",
         "projectName": "JointMeasurements",
-        "projectPath": "G:\\量子实习\\quantumKatas-VS\\JointMeasurements\\JointMeasurements.csproj",
+        "projectPath": "G:\\QuantumPractice\\quantumKatas-VS\\JointMeasurements\\JointMeasurements.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "G:\\量子实习\\quantumKatas-VS\\JointMeasurements\\obj\\",
+        "outputPath": "G:\\QuantumPractice\\quantumKatas-VS\\JointMeasurements\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

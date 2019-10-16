@@ -131,17 +131,23 @@ namespace Quantum.Kata.GroversAlgorithm {
     // allows to convert one type of oracle into the other. The transformation is described at
     // https://en.wikipedia.org/wiki/Grover%27s_algorithm, section "Description of Uω".
     function OracleConverter (markingOracle : ((Qubit[], Qubit) => Unit is Adj)) : (Qubit[] => Unit is Adj) {
-        
-        // Hint: Remember that you can define auxiliary operations.
-        
-        // ...
-        
-        // Currently this function returns a no-op operation for the sake of being able to compile the code.
-        // You will need to remove ApplyToEachA and return your own oracle instead.
-        return ApplyToEachA(I, _);
+
+		return OracleConverterIm(markingOracle, _);
     }
     
+	operation OracleConverterIm (markingOracle : ((Qubit[], Qubit) => Unit is Adj), register : Qubit[]) : Unit
+	is Adj {
+		using (q = Qubit()) {
+			X(q);
+			H(q);
+			markingOracle(register, q);
+			//Reset(q);
 
+			H(q);
+			X(q);
+		}
+
+	}
     
     //////////////////////////////////////////////////////////////////
     // Part II. The Grover iteration
@@ -176,8 +182,18 @@ namespace Quantum.Kata.GroversAlgorithm {
         // as the state obtained by flipping the sign of only the |0...0⟩ state.
             
         // Hint 2: You can use the same trick as in the oracle converter task.
-            
-        // ...
+        for(qs in register) {
+			X(qs);
+		}
+        using (q = Qubit()) {
+			X(q);
+			Controlled Z(register, q);
+			X(q);
+		}
+
+		for(qs in register) {
+			X(qs);
+		}
     }
     
     
@@ -192,10 +208,13 @@ namespace Quantum.Kata.GroversAlgorithm {
         
         // Hint: A Grover iteration consists of 4 steps:
         //    1) apply the oracle
+		oracle(register);
         //    2) apply the Hadamard transform
+		HadamardTransform(register);
         //    3) perform a conditional phase shift
+		ConditionalPhaseFlip(register);
         //    4) apply the Hadamard transform again
-            
+        HadamardTransform(register);
         // ...
     }
     
@@ -215,7 +234,10 @@ namespace Quantum.Kata.GroversAlgorithm {
     // Note: The number of iterations is passed as a parameter because it is defined by the nature of the problem
     // and is easier to configure/calculate outside the search algorithm itself (for example, in the driver).
     operation GroversSearch (register : Qubit[], oracle : ((Qubit[], Qubit) => Unit is Adj), iterations : Int) : Unit {
-        // ...
+        HadamardTransform(register);
+		for(i in 0..iterations - 1) {
+			GroverIteration(register, OracleConverter(oracle));
+		}
     }
     
     

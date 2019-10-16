@@ -12,3 +12,17 @@ G:\量子实习\quantumKatas-VS\JointMeasurements\obj\Debug\netcoreapp2.1\JointM
 G:\量子实习\quantumKatas-VS\JointMeasurements\obj\Debug\netcoreapp2.1\JointMeasurements.AssemblyInfo.cs
 G:\量子实习\quantumKatas-VS\JointMeasurements\obj\Debug\netcoreapp2.1\JointMeasurements.dll
 G:\量子实习\quantumKatas-VS\JointMeasurements\obj\Debug\netcoreapp2.1\JointMeasurements.pdb
+G:\QuantumPractice\quantumKatas-VS\JointMeasurements\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+G:\QuantumPractice\quantumKatas-VS\JointMeasurements\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+G:\QuantumPractice\quantumKatas-VS\JointMeasurements\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+G:\QuantumPractice\quantumKatas-VS\JointMeasurements\bin\Debug\netcoreapp2.1\JointMeasurements.deps.json
+G:\QuantumPractice\quantumKatas-VS\JointMeasurements\bin\Debug\netcoreapp2.1\JointMeasurements.runtimeconfig.json
+G:\QuantumPractice\quantumKatas-VS\JointMeasurements\bin\Debug\netcoreapp2.1\JointMeasurements.runtimeconfig.dev.json
+G:\QuantumPractice\quantumKatas-VS\JointMeasurements\bin\Debug\netcoreapp2.1\JointMeasurements.dll
+G:\QuantumPractice\quantumKatas-VS\JointMeasurements\bin\Debug\netcoreapp2.1\JointMeasurements.pdb
+G:\QuantumPractice\quantumKatas-VS\JointMeasurements\obj\Debug\netcoreapp2.1\JointMeasurements.csprojAssemblyReference.cache
+G:\QuantumPractice\quantumKatas-VS\JointMeasurements\obj\Debug\netcoreapp2.1\JointMeasurements.csproj.CoreCompileInputs.cache
+G:\QuantumPractice\quantumKatas-VS\JointMeasurements\obj\Debug\netcoreapp2.1\JointMeasurements.AssemblyInfoInputs.cache
+G:\QuantumPractice\quantumKatas-VS\JointMeasurements\obj\Debug\netcoreapp2.1\JointMeasurements.AssemblyInfo.cs
+G:\QuantumPractice\quantumKatas-VS\JointMeasurements\obj\Debug\netcoreapp2.1\JointMeasurements.dll
+G:\QuantumPractice\quantumKatas-VS\JointMeasurements\obj\Debug\netcoreapp2.1\JointMeasurements.pdb

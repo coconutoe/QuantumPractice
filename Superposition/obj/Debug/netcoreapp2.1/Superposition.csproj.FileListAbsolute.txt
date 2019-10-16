@@ -12,3 +12,17 @@ G:\量子实习\quantumKatas-VS\Superposition\obj\Debug\netcoreapp2.1\Superposit
 G:\量子实习\quantumKatas-VS\Superposition\obj\Debug\netcoreapp2.1\Superposition.AssemblyInfo.cs
 G:\量子实习\quantumKatas-VS\Superposition\obj\Debug\netcoreapp2.1\Superposition.dll
 G:\量子实习\quantumKatas-VS\Superposition\obj\Debug\netcoreapp2.1\Superposition.pdb
+G:\QuantumPractice\quantumKatas-VS\Superposition\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+G:\QuantumPractice\quantumKatas-VS\Superposition\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+G:\QuantumPractice\quantumKatas-VS\Superposition\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+G:\QuantumPractice\quantumKatas-VS\Superposition\bin\Debug\netcoreapp2.1\Superposition.deps.json
+G:\QuantumPractice\quantumKatas-VS\Superposition\bin\Debug\netcoreapp2.1\Superposition.runtimeconfig.json
+G:\QuantumPractice\quantumKatas-VS\Superposition\bin\Debug\netcoreapp2.1\Superposition.runtimeconfig.dev.json
+G:\QuantumPractice\quantumKatas-VS\Superposition\bin\Debug\netcoreapp2.1\Superposition.dll
+G:\QuantumPractice\quantumKatas-VS\Superposition\bin\Debug\netcoreapp2.1\Superposition.pdb
+G:\QuantumPractice\quantumKatas-VS\Superposition\obj\Debug\netcoreapp2.1\Superposition.csprojAssemblyReference.cache
+G:\QuantumPractice\quantumKatas-VS\Superposition\obj\Debug\netcoreapp2.1\Superposition.csproj.CoreCompileInputs.cache
+G:\QuantumPractice\quantumKatas-VS\Superposition\obj\Debug\netcoreapp2.1\Superposition.AssemblyInfoInputs.cache
+G:\QuantumPractice\quantumKatas-VS\Superposition\obj\Debug\netcoreapp2.1\Superposition.AssemblyInfo.cs
+G:\QuantumPractice\quantumKatas-VS\Superposition\obj\Debug\netcoreapp2.1\Superposition.dll
+G:\QuantumPractice\quantumKatas-VS\Superposition\obj\Debug\netcoreapp2.1\Superposition.pdb
